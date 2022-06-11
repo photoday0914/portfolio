@@ -1,1 +1,2 @@
-web:./dist/index.html
+web: npm install
+web: npm start
